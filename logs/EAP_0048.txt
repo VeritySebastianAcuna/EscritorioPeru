@@ -1,0 +1,8 @@
+Log de Caso de Prueba EAP_0048
+Tipo CPE: Boleta
+Subtipo CPE: Cargo
+Tipo Cargo: No afectan a la base imponible del IGV/IVAP
+URL: http://qaacepta2104.acepta.pe/v01/2EFDD65DE9F775E75387253C3789EFFB89A9F0CF?k=db66b71c54d13ce774d9e4cb47e300dd
+Número de CPE: BP0100000546
+Resultado: La BOLETA BP01-00000546, ha sido ACEPTADO
+ScreenShot de la traza

@@ -1,0 +1,9 @@
+Log de Caso de Prueba EAP_0020
+Tipo CPE: Factura
+Subtipo CPE: Cargo
+Tipo Cargo: No afectan a la base imponible del IGV/IVAP
+URL: http://qaacepta2103.acepta.pe/v01/5151A06D8BCAED259C8834B6865B663388B143E1?k=5a9334b698262464d8293be27ba20d75
+Número de CPE: FHHH00000508
+Resultado: La FACTURA FHHH-00000508, ha sido OBSERVADO
+El Código producto de SUNAT no es válido
+ScreenShot de la traza

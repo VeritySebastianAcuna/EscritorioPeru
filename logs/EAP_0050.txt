@@ -1,0 +1,8 @@
+Log de Caso de Prueba EAP_0050
+Tipo CPE: Boleta
+Subtipo CPE: Cargo
+Tipo Cargo: Recargo al consumo y/o propinas
+URL: http://qaacepta2104.acepta.pe/v01/340A2EB48813614A1015F3EAAECD28E38D4FF076?k=a9e5b0140b306a31bc52638cb78c6780
+Número de CPE: BP0100000548
+Resultado: 
+ScreenShot de la traza

@@ -1,0 +1,8 @@
+Log de Caso de Prueba EAP_0019
+Tipo CPE: Factura
+Subtipo CPE: Cargo
+Tipo Cargo: No afectan a la base imponible del IGV/IVAP
+URL: http://qaacepta2103.acepta.pe/v01/CA8E502B80670403D10D7E5EEDBBEB7D8661EF40?k=3b8bae26a9a487c64871c28b95388e8b
+Número de CPE: FHHH00000507
+Resultado: La FACTURA FHHH-00000507, ha sido ACEPTADO
+ScreenShot de la traza

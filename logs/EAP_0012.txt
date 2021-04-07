@@ -1,0 +1,8 @@
+Log de Caso de Prueba EAP_0012
+Tipo CPE: Factura
+Subtipo CPE: Cargo
+Tipo Cargo: Si afectan a la base imponible del IGV/IVAP
+URL: http://qaacepta2103.acepta.pe/v01/168C5ADD642043DFA419B74BC08168386B9A6DEF?k=1711ed5046fd7732f8b7020ce4d8e56f
+Número de CPE: FHHH00000500
+Resultado: La FACTURA FHHH-00000500, ha sido ACEPTADO
+ScreenShot de la traza

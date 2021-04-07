@@ -1,0 +1,8 @@
+Log de Caso de Prueba EAP_0051
+Tipo CPE: Boleta
+Subtipo CPE: Cargo
+Tipo Cargo: Recargo al consumo y/o propinas
+URL: http://qaacepta2104.acepta.pe/v01/D871687FCDEDC9DA38D568337DBC86A8153C9D6C?k=753ec34e5b7251bc058381021a29b213
+Número de CPE: BP0100000549
+Resultado: CPE Rechazado por la OSE, código de Error: 2936-El dato ingresado como unidad de medida no corresponde al valor esperado.-
+ScreenShot de la traza

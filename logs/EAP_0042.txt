@@ -1,0 +1,8 @@
+Log de Caso de Prueba EAP_0042
+Tipo CPE: Boleta
+Subtipo CPE: Cargo
+Tipo Cargo: Si afectan a la base imponible del IGV/IVAP
+URL: http://qaacepta2104.acepta.pe/v01/E8EC3C4943E9EB243C887DCBB939905DDA917D79?k=eca2fd4317df72aa53d9e8c3760b8bc7
+Número de CPE: BP0100000541
+Resultado: La BOLETA BP01-00000541, ha sido ACEPTADO
+ScreenShot de la traza

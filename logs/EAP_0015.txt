@@ -1,0 +1,8 @@
+Log de Caso de Prueba EAP_0015
+Tipo CPE: Factura
+Subtipo CPE: Cargo
+Tipo Cargo: Si afectan a la base imponible del IGV/IVAP
+URL: http://qaacepta2103.acepta.pe/v01/63AE177B95A55D690E6D3AA612FD445F59E210D1?k=c188779f0b1360712e2ff898e9f186d4
+Número de CPE: FHHH00000503
+Resultado: CPE Rechazado por la OSE, código de Error: 3205-Debe consignar el tipo de operaci\363n.-
+ScreenShot de la traza

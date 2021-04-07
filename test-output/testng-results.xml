@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="9" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-07T15:28:37Z" name="Default suite" finished-at="2021-04-07T15:55:21Z" duration-ms="1604126">
+    <groups>
+    </groups>
+    <test started-at="2021-04-07T15:28:37Z" name="Default test" finished-at="2021-04-07T15:55:21Z" duration-ms="1604126">
+      <class name="test.Tests_BoletaCargo">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:28:37Z" name="setUp" finished-at="2021-04-07T15:28:43Z" duration-ms="6430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Script_0042()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:28:43Z" name="Script_0042" finished-at="2021-04-07T15:31:14Z" duration-ms="151296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Script_0042 -->
+        <test-method is-config="true" signature="FinEjecucion()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:31:14Z" name="FinEjecucion" finished-at="2021-04-07T15:31:14Z" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FinEjecucion -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:31:14Z" name="setUp" finished-at="2021-04-07T15:31:21Z" duration-ms="6696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Script_0043()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:31:21Z" name="Script_0043" finished-at="2021-04-07T15:33:55Z" duration-ms="154120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Script_0043 -->
+        <test-method is-config="true" signature="FinEjecucion()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:33:55Z" name="FinEjecucion" finished-at="2021-04-07T15:33:56Z" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FinEjecucion -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:33:56Z" name="setUp" finished-at="2021-04-07T15:34:04Z" duration-ms="8354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Script_0044()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:34:04Z" name="Script_0044" finished-at="2021-04-07T15:36:22Z" duration-ms="138181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Script_0044 -->
+        <test-method is-config="true" signature="FinEjecucion()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:36:22Z" name="FinEjecucion" finished-at="2021-04-07T15:36:22Z" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FinEjecucion -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:36:22Z" name="setUp" finished-at="2021-04-07T15:36:29Z" duration-ms="6755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Script_0045()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:36:29Z" name="Script_0045" finished-at="2021-04-07T15:38:46Z" duration-ms="136991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Script_0045 -->
+        <test-method is-config="true" signature="FinEjecucion()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:38:46Z" name="FinEjecucion" finished-at="2021-04-07T15:38:50Z" duration-ms="4209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FinEjecucion -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:38:50Z" name="setUp" finished-at="2021-04-07T15:39:00Z" duration-ms="9675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Script_0046()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:39:00Z" name="Script_0046" finished-at="2021-04-07T15:43:54Z" duration-ms="294290" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"css selector","selector":"#form_params > div:nth-child(7) > div.switch.col-xs-12.content-checkbox > label:nth-child(3)"}
+  (Session info: chrome=89.0.4389.114)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'VERITY-98', ip: '172.16.8.188', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.114, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\estef\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54844}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e02be3a1fb584b1f05161056253be0e1
+*** Element info: {Using=css selector, value=#form_params > div:nth-child(7) > div.switch.col-xs-12.content-checkbox > label:nth-child(3)}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#form_params > div:nth-child(7) > div.switch.col-xs-12.content-checkbox > label:nth-child(3)"}
+  (Session info: chrome=89.0.4389.114)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'VERITY-98', ip: '172.16.8.188', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.114, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\estef\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54844}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e02be3a1fb584b1f05161056253be0e1
+*** Element info: {Using=css selector, value=#form_params > div:nth-child(7) > div.switch.col-xs-12.content-checkbox > label:nth-child(3)}
+at jdk.internal.reflect.GeneratedConstructorAccessor73.newInstance(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:319)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:413)
+at org.openqa.selenium.By$ByCssSelector.findElement(By.java:430)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:311)
+at pages.PageDetalle.itemNoAfecto(PageDetalle.java:189)
+at test.Tests_BoletaCargo.Script_0046(Tests_BoletaCargo.java:198)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Script_0046 -->
+        <test-method is-config="true" signature="FinEjecucion()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:43:54Z" name="FinEjecucion" finished-at="2021-04-07T15:43:55Z" duration-ms="391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FinEjecucion -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:43:55Z" name="setUp" finished-at="2021-04-07T15:44:03Z" duration-ms="8807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Script_0047()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:44:03Z" name="Script_0047" finished-at="2021-04-07T15:46:22Z" duration-ms="138504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Script_0047 -->
+        <test-method is-config="true" signature="FinEjecucion()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:46:22Z" name="FinEjecucion" finished-at="2021-04-07T15:46:22Z" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FinEjecucion -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:46:22Z" name="setUp" finished-at="2021-04-07T15:46:29Z" duration-ms="6519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Script_0048()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:46:29Z" name="Script_0048" finished-at="2021-04-07T15:48:47Z" duration-ms="138231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Script_0048 -->
+        <test-method is-config="true" signature="FinEjecucion()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:48:47Z" name="FinEjecucion" finished-at="2021-04-07T15:48:47Z" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FinEjecucion -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:48:47Z" name="setUp" finished-at="2021-04-07T15:48:53Z" duration-ms="6156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Script_0049()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:48:53Z" name="Script_0049" finished-at="2021-04-07T15:50:49Z" duration-ms="115932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Script_0049 -->
+        <test-method is-config="true" signature="FinEjecucion()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:50:49Z" name="FinEjecucion" finished-at="2021-04-07T15:50:49Z" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FinEjecucion -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:50:49Z" name="setUp" finished-at="2021-04-07T15:50:57Z" duration-ms="8197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Script_0050()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:50:57Z" name="Script_0050" finished-at="2021-04-07T15:53:17Z" duration-ms="139709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Script_0050 -->
+        <test-method is-config="true" signature="FinEjecucion()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:53:17Z" name="FinEjecucion" finished-at="2021-04-07T15:53:17Z" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FinEjecucion -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:53:17Z" name="setUp" finished-at="2021-04-07T15:53:24Z" duration-ms="7005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Script_0051()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:53:24Z" name="Script_0051" finished-at="2021-04-07T15:55:21Z" duration-ms="116163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Script_0051 -->
+        <test-method is-config="true" signature="FinEjecucion()[pri:0, instance:test.Tests_BoletaCargo@409c54f]" started-at="2021-04-07T15:55:21Z" name="FinEjecucion" finished-at="2021-04-07T15:55:21Z" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FinEjecucion -->
+      </class> <!-- test.Tests_BoletaCargo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

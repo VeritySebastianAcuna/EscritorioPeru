@@ -39,6 +39,7 @@ public class Prueba {
 //		EAP_0055
 		String cp = "EAP_0055";
 		System.out.println(cp);
+		System.out.println(cp);
 		PageLogin pageLogin = new PageLogin(driver);
 		String[] datos = leerExcel.ObtenerDatosCP(datapool,cp);
 		for(int i=0;i<datos.length;i++) {

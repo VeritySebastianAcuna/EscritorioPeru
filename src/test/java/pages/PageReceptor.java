@@ -105,4 +105,5 @@ public class PageReceptor {
 			}
 		}while(i==0);
 	}
+	
 }
